@@ -20,7 +20,7 @@ const Achivements = () => {
         <div className="flex flex-col ml-5 w-6/12">
           <div className="grid grid-cols-2 gap-5">
             <AchivementItem src="/a1.svg" label="Members" count="2,245,341" />
-            <AchivementItem src="/a1.svg" label="Clubs" count="1,121,412" />
+            <AchivementItem src="/a1.svg" label="Clubs" count="46,328" />
             <AchivementItem
               src="/a3.svg"
               label="Event Bookings"
