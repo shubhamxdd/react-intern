@@ -12,13 +12,13 @@ const Community = () => {
       title: "National Associations",
       description:
         "Our membership management software provides full automation of membership renewals and payments",
-      image: "/c2.svg",
+      image: "/c3.svg",
     },
     {
       title: "Clubs And Groups",
       description:
         "Our membership management software provides full automation of membership renewals and payments",
-      image: "/c3.svg",
+      image: "/c2.svg",
     },
   ];
   return (

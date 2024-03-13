@@ -8,7 +8,7 @@ const Achivements = () => {
           <div className="flex flex-col self-stretch my-auto max-md:mt-10">
             <h2 className="text-4xl font-semibold leading-[42px] text-zinc-500">
               Helping a local
-              <span className="text-green-500 block">
+              <span className="text-green-600 block">
                 business reinvent itself
               </span>
             </h2>
