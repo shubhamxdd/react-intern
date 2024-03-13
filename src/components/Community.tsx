@@ -22,7 +22,7 @@ const Community = () => {
     },
   ];
   return (
-    <div className="px-20 py-10">
+    <section className="px-20 py-10">
       <div className="flex flex-col">
         <h1 className="self-center text-4xl font-semibold leading-8 text-center text-neutral-600">
           Manage your entire community
@@ -44,7 +44,7 @@ const Community = () => {
           </div>
         </div>
       </div>
-    </div>
+    </section>
   );
 };
 

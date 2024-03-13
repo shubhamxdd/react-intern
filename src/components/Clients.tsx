@@ -9,7 +9,7 @@ const Clients = () => {
     "/Logo-6.svg",
   ];
   return (
-    <div className="flex flex-col px-20 max-md:px-5 text-4xl py-10">
+    <section className="flex flex-col px-20 max-md:px-5 text-4xl py-10">
       <h2 className="mx-5 font-semibold leading-8 text-center text-neutral-600 max-md:mr-2.5 max-md:max-w-full">
         Our Clients
       </h2>
@@ -27,7 +27,7 @@ const Clients = () => {
           />
         ))}
       </div>
-    </div>
+    </section>
   );
 };
 

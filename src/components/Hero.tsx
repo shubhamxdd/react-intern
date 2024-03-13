@@ -2,7 +2,7 @@ import Button from "./Button";
 
 const Hero = () => {
   return (
-    <div className="self-stretch px-20 py-16 bg-slate-100 max-md:px-5">
+    <section className="self-stretch px-20 py-16 bg-slate-100 max-md:px-5">
       <div className="flex gap-5 max-md:flex-col max-md:gap-0">
         <div className="flex flex-col w-[63%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col self-stretch my-auto leading-4 max-md:mt-10 max-md:max-w-full">
@@ -38,7 +38,7 @@ const Hero = () => {
           ></div>
         ))}
       </div>
-    </div>
+    </section>
   );
 };
 
